@@ -1,6 +1,6 @@
 # TwitterAppOAuth
 A library of Twitter Application-only authentication.
-https://dev.twitter.com/oauth/application-only
+  https://dev.twitter.com/oauth/application-only
 
 ##Requirements
 * php >= 5.4.0
@@ -13,5 +13,5 @@ $params = array(
     'q' => 'twitterapi'
 );
 
-$statuses = $connection->get('search/tweets', $params);
+$obj = $connection->get('search/tweets', $params);
 ```
