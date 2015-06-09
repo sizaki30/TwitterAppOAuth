@@ -1,6 +1,6 @@
 # TwitterAppOAuth
-A library of Twitter Application-only authentication.
-  https://dev.twitter.com/oauth/application-only
+A library of Twitter Application-only authentication.  
+https://dev.twitter.com/oauth/application-only
 
 ##Requirements
 * php >= 5.4.0
